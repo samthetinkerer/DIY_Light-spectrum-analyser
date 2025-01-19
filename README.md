@@ -1,7 +1,7 @@
 # DIY_Light-spectrum-analyser
 Please check video below for more information and wiring instructions
 
-Video:
+Video:https://youtu.be/xQkWymlct2w
 
 Parts used:
 SparkFun Spectral UV Sensor - AS7331
